@@ -1,0 +1,10 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+/*Videos e imagens responsivas*/
+iframe,
+video,
+img{
+    max-width: 100%;
+}
+
